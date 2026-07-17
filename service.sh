@@ -3,7 +3,6 @@
 
 MODDIR=${0%/*}
 
-# ColorOS 几个"容易被系统打回"的关键键，定期检查
 watch_keys() {
     vsync=$(settings get global hwui.disable_vsync)
     [ "$vsync" != "true" ] && settings put global hwui.disable_vsync true
