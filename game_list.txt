@@ -1,0 +1,3 @@
+com.tencent.ig
+com.tencent.tmgp.pubgmjy
+com.tencent.tmgp.pubgmhd
