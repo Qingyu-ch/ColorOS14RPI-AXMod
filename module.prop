@@ -1,0 +1,10 @@
+id=ColorOS14RPI-AXMod
+name=ColorOS14快速提帧（免root）
+version=v1.0
+versionCode=1
+author=@墨羽
+description=定制版！ColorOS14快速性能提升（免root），稳定帧率需要看手机性能，卸载模块自动还原默认设置
+axeronPlugin=14000
+banner=image.png
+updateJson=https://raw.githubusercontent.com/Qingyu-ch/ColorOS14RPI-AXMod/refs/heads/main/update.json
+
